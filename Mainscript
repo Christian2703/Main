@@ -1,3 +1,8 @@
+-- Tenta destruir Fluent se existir
+if Fluent then
+    Fluent:Destroy()
+end
+
 local scripts = {
     [15744137588] = "https://raw.githubusercontent.com/Christian2703/BladeSlayer/main/Bladescript",
     [17556050821] = "https://raw.githubusercontent.com/Christian2703/BladeSlayer/main/Bladescript",

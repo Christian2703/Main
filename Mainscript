@@ -22,6 +22,8 @@ local scripts = {
     [17872649351] = "https://raw.githubusercontent.com/Christian2703/AnimePunchingSimulator2/main/AnimePunchingSimulator2.lua",
     [14752086859] = "https://raw.githubusercontent.com/Christian2703/dkscript/main/AnimeMax.lua",
     [16712648821] = "https://raw.githubusercontent.com/Christian2703/AnimeRacing2/main/AnimeRacing2.lua",
+    [14195873109] = "https://raw.githubusercontent.com/Christian2703/SlayerCorps/main/SlayerCorps",
+    [17489613630] = "https://raw.githubusercontent.com/Christian2703/SlayerCorps/main/SlayerCorps",
     [14015533453] = "https://raw.githubusercontent.com/Christian2703/AnimeRealms/main/AnimeRalmsScript.lua"
 }
 

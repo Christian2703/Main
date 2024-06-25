@@ -1,4 +1,4 @@
--- Tenta destruir Fluent se existir
+
 if Fluent then
     Fluent:Destroy()
 end

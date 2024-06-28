@@ -26,6 +26,7 @@ local scripts = {
     [14195873109] = "https://raw.githubusercontent.com/Christian2703/SlayerCorps/main/SlayerCorps",
     [17489613630] = "https://raw.githubusercontent.com/Christian2703/SlayerCorps/main/SlayerCorps",
     [142823291] = "https://raw.githubusercontent.com/Christian2703/Murder-Mystery-2/main/MurderMystery2",
+    [16741537517] = "https://https://raw.githubusercontent.com/Christian2703/AnimeHeroesSimulator/main/AnimeHeroesSimulator",
     [14015533453] = "https://raw.githubusercontent.com/Christian2703/AnimeRealms/main/AnimeRalmsScript.lua"
 }
 
